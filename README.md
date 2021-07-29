@@ -11,8 +11,6 @@
 </div>
   
 
-<div style 
-  <img align = "center" alt = "leticia-kotlin" height = "30" width = "40" src = ""https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-  </div>
-  
-  
+<div style = "display: accouts"> <br>
+ <img align = "center" alt = "kotlin" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+ </div>
