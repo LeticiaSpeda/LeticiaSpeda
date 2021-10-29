@@ -1,8 +1,7 @@
-### Oiie!! Eu sou a Leticia Speda
+### Oiie!! Seja muito Bem Vindo!!
 
 - 🔭 Atualmente faço alguns trabalhos como freelancer
-- 🌱 Estudando Kotlin
-- 😄 Pronouns: ela/dela
+- 🌱 Estudando Kotlin e Swift
 
  <div>
   <a href="https://github.com/rafaballerini">
