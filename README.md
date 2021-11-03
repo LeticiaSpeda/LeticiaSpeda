@@ -20,7 +20,7 @@
  <div> 
   <a href="https://www.instagram.com/leticia_speda/" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
   <a href="https://www.linkedin.com/in/leticia-speda-219776186" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the- badge & logo=linkedin & logoColor = white "target =" _ blank "> </a>
-  <a href= "linkedin.com/in/leticia-speda-219776186" target="_blanck"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" = white "target =" _ blank "> </a>
+  <a href= "https://www.linkedin.com/in/leticia-speda-219776186" target="_blanck"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" = white "target =" _ blank "> </a>
 
  
 </div>
