@@ -11,9 +11,6 @@
 </div>
   
 <div>
-
-![icons8-kotlin-48](https://user-images.githubusercontent.com/85207486/127419443-7e602b9a-38ef-41c2-b63a-240a8dbfe3a4.png)
-  </div>
  
  ##
  
