@@ -1,15 +1,16 @@
                                                     🥰 Seja muito Bem Vindo!!🥰
 
+## 👩🏻 Sobre mim: 👩🏻
 -  Trabalho atualmente na area de IOS 
 - 👨🏻‍🎓 Estudante de ADS @Metodista
 - 📓 Conhecimento em swift e um pouco de Kotlin
 - 🕵🏻 Sempre em busca de mais conhecimento
-## O que você ira encontrar no meu perfil:
+## 🔍 O que você ira encontrar no meu perfil? 🔍
 - 🤖 Projetos realizados no inicio dos meus estudos em Kotlin
 - 🖥️  Projetos realizados em IOS
     - Com StoryBoard
     - Com ViewCode
-## Me siga nas redes sociais!
+## 👩‍💻 Me siga nas redes sociais! 👩‍💻
 - 📱 Entre em contato comigo abaixo! 👇🏻
 
 ------------------------------------------------
@@ -21,9 +22,6 @@
   <a href="https://t.me/leticiaspeda"><img height = "20em" src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"</a>
   <a href="https://discord.com/channels/@me/857294634836819989"><img height = "20em" src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"                                         
   </a>
-
-   ##
-
  <div>
  
   <a href="https://github.com/LeticiaSpeda">
@@ -31,7 +29,7 @@
   <img height = "166em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaSpeda&layout=compact&langs_count=16&theme=radical" />
   
 </div>
- ##                                        
+                                 
  
  ![Snake animation](https://github.com/LeticiaSpeda/LeticiaSpeda/blob/output/github-contribution-grid-snake.svg)
  
