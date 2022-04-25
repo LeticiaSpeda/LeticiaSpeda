@@ -34,3 +34,8 @@
  ![Snake animation](https://github.com/LeticiaSpeda/LeticiaSpeda/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+    <p align="center"> 
+      👁️‍🗨️ Quantidade de visitas no meu perfil:
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+    <p align="center">
+      Obrigado por visitar meu perfil, até mais 👋
