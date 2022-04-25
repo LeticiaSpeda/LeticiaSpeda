@@ -7,9 +7,9 @@
 - 🕵🏻 Sempre em busca de mais conhecimento
 ## 🔍 O que você ira encontrar no meu perfil? 🔍
 - 🤖 Projetos realizados no inicio dos meus estudos em Kotlin
-- 🖥️  Projetos realizados em IOS
-    - Com StoryBoard
-    - Com ViewCode
+- 🤖 Projetos realizados em IOS com StoryBoard e ViewCode das plataformas:
+    - Udemy
+    - Devpass
 ## 👩‍💻 Me siga nas redes sociais! 👩‍💻
 - 📱 Entre em contato comigo abaixo! 👇🏻
 
