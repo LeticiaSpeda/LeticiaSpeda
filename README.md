@@ -20,7 +20,7 @@ ________________________________________________________________________________
 <div>
   <a href="https://github.com/LeticiaSpeda">
 </div> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeticiaSpeda&theme=dracula"/> <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeticiaSpeda&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaSpeda&layout=compact&langs_count=7&theme=dracula"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeticiaSpeda&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaSpeda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 ___________________________________________________________________________________________________________
 <p 
