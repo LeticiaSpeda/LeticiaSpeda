@@ -1,13 +1,8 @@
                                        🥰 Seja muito Bem Vindo!!🥰
-## 👩🏻Sobre mim: 👩🏻
-*  Trabalho atualmente na area de IOS na @NTTDATA
-* 👨🏻‍🎓 Estudante de ADS @Metodista
 
 ## 🔍 O que você ira encontrar no meu perfil? 🔍
-* 🤖 Projetos realizados em IOS com StoryBoard e ViewCode das plataformas:
-    * Udemy
-    * Devpass
-* 🤖 Projetos realizados em python para estudos da faculdade
+* 🤖 Projetos realizados para estudos da linguagem Swift:
+* 🤖 Projetos realizados para estudos da faculdade
 
 ## 👩‍💻 Me siga nas redes sociais! 👩‍💻
 * 📱 Entre em contato comigo abaixo! 👇🏻
