@@ -36,7 +36,7 @@ align="center">
 
 <p
  align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaSpeda&theme=dracula"/> 
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaSpeda&theme=dracula"/> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaSpeda&theme=dracula"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeticiaSpeda&theme=dracula"/>
 </p>
