@@ -19,7 +19,12 @@ align="center">
 
 <p
  align="center">
- * 🤖 Projetos realizados para estudos da linguagem Swift:
+ * 🤖 Projetos realizados para estudos de linguagens de programação
+ </p>
+
+<p
+ align="center">
+ * 🤖 Projetos realizados para estudos de mobile
  </p>
 
  <p
@@ -36,9 +41,7 @@ align="center">
 
 <p
  align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaSpeda&theme=dracula"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaSpeda&theme=dracula"/> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeticiaSpeda&theme=dracula"/>
+
 
 </p>
 
