@@ -2,8 +2,9 @@
 
 <p 
 align="center">
-<img src = "image.png" height = 220 />
+<img src = "./assets/IMG_6974.jpg" height = 220 />
 </p>
+
 
 <p 
 align="center">
