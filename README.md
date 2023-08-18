@@ -2,7 +2,12 @@
 
 <p 
 align="center">
-Olá Desenvolvedor
+<img src = "image.png" height = 220 />
+</p>
+
+<p 
+align="center">
+Ola Desenvolvedor
 </p>
 
 ---
@@ -41,6 +46,7 @@ align="center">
 
 <p
  align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaSpeda&theme=radical"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaSpeda&langs_count=9&theme=radical" width=280 height=280/>
 
 
 </p>
