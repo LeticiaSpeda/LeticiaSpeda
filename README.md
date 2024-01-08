@@ -26,7 +26,7 @@ Minha paixão reside no desenvolvimento de aplicativos iOS com Swift,onde meu fo
 ## 💬 Vamos Conversar!
 ### Se você tem interesse em desenvolvimento Swift, ou quer discutir qualquer projeto, fique à vontade para me contatar.
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/leticiaoliveiraspeda)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/LeticiaSpeda)](https://www.linkedin.com/in/LeticiaOliveiraSpeda/)
 
 ## 🛠️ Ferramentas e Tecnologias
 <p>
