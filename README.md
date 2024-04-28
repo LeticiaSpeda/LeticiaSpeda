@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Oi 👩🏻‍💻, sou Leticia Speda</h1>
-<h2 align="center">Desenvolvedora Swift | Criando apps que fazem a diferença</h2>
+<h1 align="center">Oiie Dev 👩🏻‍💻, eu sou a Leticia Speda</h1>
+<h2 align="center">Desenvolvedora iOS | Criando apps que fazem a diferença</h2>
 
 ## 🍎 Foco em Swift
 Minha paixão reside no desenvolvimento de aplicativos iOS com Swift,onde meu foco transcende a estética agradável para entregar experiências de usuário excepcionalmente intuitivas e funcionais  criar soluções que não apenas resolvam problemas complexos, mas que também enriqueçam a vida das pessoas, tornando a tecnologia acessível e agradável.
