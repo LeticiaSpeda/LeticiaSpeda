@@ -6,9 +6,6 @@
 ## 🍎 Foco em Swift
 Minha paixão reside no desenvolvimento de aplicativos iOS com Swift,onde meu foco transcende a estética agradável para entregar experiências de usuário excepcionalmente intuitivas e funcionais  criar soluções que não apenas resolvam problemas complexos, mas que também enriqueçam a vida das pessoas, tornando a tecnologia acessível e agradável.
 
-## 🎓 Projetos Acadêmicos
- **Faculdade de Analise e Desenvolvimento de SIstemas**: Desenvolvi projetos que exploram desde fundamentos da ciência da computação até aplicativos móveis complexos. Confira meu portfólio acadêmico!
-
 ## 🚀 Projetos Individuais
  **Estudos Autodidatas**: Dedico uma parte do meu tempo para aprender novas técnicas e padrões de design em Swift. Acesse meus repositórios para ver o que estou explorando atualmente!
 
